@@ -10,12 +10,15 @@
   "author": "𝙒𝙖𝙣𝙣",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "github:zennn08/Baileys",
-    "@bochilteam/scraper": "^4.0.22-alpha.0",
-    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@whiskeysockets/baileys" : "^6.7.5",
     "@adiwajshing/keyed-db": "^0.2.4",
-    "awesome-phonenumber": "^2.64.0",
-    "@vitalets/google-translate-api": "^8.0.0",
+    "@bochilteam/scraper": "^4.2.4",
+    "@develoka/angka-terbilang-js": "^1.4.2",
+    "@distube/ytdl-core": "^4.13.5",
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@hapi/boom": "^10.0.0",
+    "@ibaraki-douji/pixivts": "^2.4.1",
+    "@vitalets/google-translate-api": "^9.2.0",
     "chalk": "^4.1.2",
     "api-dylux": "^1.4.4",
     "acrcloud": "^1.4.0", 
@@ -86,10 +89,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ManuDevBot/Manu-MD.git"
+    "url": "git+https://github.com/Alvinpin/Milkita-AI.git"
   },
   "bugs": {
-    "url": "https://github.com/ManuDevBot/Manu-MD/issues"
+    "url": "https://github.com/Alvinpin/Milkita-AI/issues"
   },
-  "homepage": "https://github.com/ManuDevBot/Manu-MD"
+  "homepage": "https://github.com/Alvinpin/Milkita-AI"
 }
