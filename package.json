@@ -86,10 +86,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alvinpin/Milkita-AI.git"
+    "url": "git+https://github.com/ManuDevBot/Manu-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/Alvinpin/Milkita-AI/issues"
+    "url": "https://github.com/ManuDevBot/Manu-MD/issues"
   },
-  "homepage": "https://github.com/Alvinpin/Milkita-AI"
+  "homepage": "https://github.com/ManuDevBot/Manu-MD"
 }
